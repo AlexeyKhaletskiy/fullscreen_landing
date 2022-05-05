@@ -1,6 +1,7 @@
 body{
   margin: 0;
   background-color: rgb(244, 244, 244);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .welcome-section{
   height: 100vh;
