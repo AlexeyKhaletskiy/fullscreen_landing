@@ -38,3 +38,27 @@ body{
   color: inherit;
   text-decoration: none;
 }
+.main-content{
+  padding: 15px;
+  background-color:#926239;
+  color: white;
+  font-size: 17px;
+  text-align: center;
+  line-height: 1.6em;
+}
+.new-information{
+  padding: 10px;
+  color: #926239;
+  font-size: 17px;
+  text-align: center;
+  line-height: 1.6em;
+}
+.more-information-article{
+  display: inline-block;
+  box-sizing: border-box;
+  width: 33.3%;
+}
+.white-bg{
+  background-color: white;
+  color: #926239;
+}
